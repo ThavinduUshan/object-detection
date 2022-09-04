@@ -1,0 +1,5 @@
+#virtual environment
+/yolo
+
+#trained model of coco dataset
+yolov3.weights
